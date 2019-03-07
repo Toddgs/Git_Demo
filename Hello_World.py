@@ -2,6 +2,6 @@
 
 def main():
   print "Hello ACM & DayZero!"
-  
-  if __name__ == '__main__':
-    main()
+
+if __name__ == '__main__':
+  main()
